@@ -80,11 +80,14 @@ import math
 
 #ZADANIE 9:
 
-# def pierwiastek(x):
-#     if x < 0:
-#         return False
-#     else:
-#         return math.sqrt(x)
-#
 # x = int(input("Podaj liczbe: "))
-# print(pierwiastek(x))
+#
+# try:
+#     sqrt = math.sqrt(x)
+# except ValueError:
+#     print("Podaj ujemna liczbe")
+#     exit()
+#
+# print(sqrt)
+#
+# print(x)
