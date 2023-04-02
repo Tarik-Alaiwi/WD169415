@@ -1,5 +1,6 @@
 import math
-
+# https://docs.python.org/3/library/stdtypes.html#string-methods
+# https://docs.python.org/3/library/math.html
 
 # slownik = {'mleko': 'sztuki', 'ziemiaki': 'kg', 'jogurt': 'sztuki'}
 # lista = [key for key in slownik.keys() if slownik[key] == 'sztuki']
