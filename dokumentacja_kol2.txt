@@ -1,0 +1,6 @@
+https://numpy.org/doc/
+https://pandas.pydata.org/docs/
+https://matplotlib.org/stable/index.html
+https://seaborn.pydata.org/
+
+https://docs.python.org/3/library/math.html
